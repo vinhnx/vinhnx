@@ -1,8 +1,7 @@
-# Hello, world! 👋  
+# Hello, world!
 
 **Nguyen Xuan Vinh**  
-*Swift Architect* | *AI Explorer* | *Open-Source Evangelist*  
-📍 Crafting digital solutions in Ho Chi Minh City, Vietnam  
+🔍 *"Learn by doing." - vinhnx*  
 
 ---
 
@@ -12,40 +11,6 @@ A passionate iOS engineer and technical researcher with 10+ years of experience 
 - **AI Integration**: Implementing LLMs (DeepSeek-V3) and NLP frameworks in mobile environments  
 - **Cross-Platform Innovation**: Flutter solutions and experimental Rust/Go tooling  
 - **Community Leadership**: Maintainer of 15+ open-source projects with 2M+ collective downloads  
-
-*"Building intuitive tools that bridge human needs with technical possibility."*
-
----
-
-## 🚀 Career Highlights  
-
-### 🔍 Core Contributions  
-- **AI/ML Implementation**  
-  📌 [VT.ai](https://github.com/vinhnx/VT.ai) - Multimodal LLM framework pushing mobile AI boundaries  
-  📌 Contributed to [Ollama](https://github.com/ollama/ollama) LLM tooling ecosystem  
-
-### 📱 Signature Apps  
-- **[Clendar](https://apps.apple.com/us/app/clendar-a-calendar-app/id1548102041)**  
-  *Featured by Apple* - Modern SwiftUI calendar with 500k+ downloads  
-  ✅ Siri Shortcuts ✅ WidgetKit ✅ Cross-platform sync  
-
-- **[WriteDown](http://vinhnx.github.io/writedown-site/)**  
-  Markdown editor with real-time cloud sync (Swift + Core Data)  
-
-- **[Humid](http://vinhnx.github.io/humid-site/)**  
-  Voice-first weather app using Combine framework  
-
----
-
-## 🧠 Technical Philosophy  
-```swift
-enum DevelopmentPrinciples {
-    case cleanArchitecture
-    case testDrivenDesign
-    case communityDrivenProgress
-    case sustainableOpenSource
-}
-```
 
 ---
 
@@ -63,10 +28,10 @@ enum DevelopmentPrinciples {
 
 **Technical Discourse**:  
 [![GitHub](https://img.shields.io/badge/-vinhnx-181717?logo=github)](https://github.com/vinhnx)  
+[![LinkedIn](https://img.shields.io/badge/-Vinh_Nguyen-0077B5?logo=linkedin)](https://www.linkedin.com/in/vinhnx)  
+[![Stack Overflow](https://img.shields.io/badge/-Vinh_Nguyen-F58025?logo=stackoverflow)](https://stackoverflow.com/users/1477298/vinh-nguyen)  
 [![Twitter](https://img.shields.io/badge/-@vinhnx-1DA1F2?logo=x)](https://twitter.com/vinhnx)  
+
+**Alternative Platforms**:  
 [![Mastodon](https://img.shields.io/badge/-@vinhnx-6364FF?logo=mastodon)](https://mastodon.social/@vinhnx)  
-
----
-
-🔍 *"Learn by doing." - vinhnx*  
-📦 Source repository: [vinhnx.github.io](https://github.com/vinhnx/vinhnx.github.io)
+[![Bluesky](https://img.shields.io/badge/-@vinhnx-1185FE?logo=bluesky)](https://bsky.app/profile/vinhnx.bsky.social)  
