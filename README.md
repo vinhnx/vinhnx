@@ -1,10 +1,5 @@
 # Hello, world!
 
-**Nguyen Xuan Vinh**  
-🔍 *"Learn by doing." - vinhnx*  
-
----
-
 ## 🌟 Professional Profile  
 A passionate iOS engineer and technical researcher with 10+ years of experience building consumer-focused applications. Specializes in:  
 - **Native iOS Development**: Swift/Objective-C expert with deep UIKit/SwiftUI mastery  
@@ -39,26 +34,3 @@ A passionate iOS engineer and technical researcher with 10+ years of experience 
 - 💡 [TIL Journal](https://github.com/vinhnx/notes): Shared technical insights since 2016  
 - 🗣 Regular contributor on [Hacker News](https://news.ycombinator.com/user?id=vinhnx)  
 - 🤖 AI experiments on [Hugging Face](https://huggingface.co/vinhnx90)  
-
----
-
-## 📍 Connect  
-
-**Connect**:
-- [GitHub](https://github.com/vinhnx) - Code repositories and open-source contributions
-- [LinkedIn](https://www.linkedin.com/in/vinhnx) - Professional experience and achievements
-- [Stack Overflow](https://stackoverflow.com/users/1477298/vinh-nguyen) - Technical Q&A contributions
-- [Hacker News](https://news.ycombinator.com/user?id=vinhnx) - Tech community discussions
-
-**Social**:
-- [Twitter](https://twitter.com/vinhnx) - Announcements and quick updates
-- [Mastodon](https://mastodon.social/@vinhnx) - Decentralized tech conversations
-- [Bluesky](https://bsky.app/profile/vinhnx.bsky.social) - Experimental social platform
-
-**Portfolio**:
-- [App Store](http://itunes.com/nguyenvinh) - Published iOS applications
-
----
-
-🔍 *"Learn by doing." - vinhnx*  
-📦 Source repository: [vinhnx.github.io](https://github.com/vinhnx/vinhnx.github.io)
